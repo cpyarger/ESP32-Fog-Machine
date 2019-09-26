@@ -18,3 +18,15 @@ Device automatically shuts down fog machine heater, and pump if Temperatures go 
 - Telnet Support
 - MQTT Support
 - Web Control of Duration, Delay Variables 
+
+
+## Web Interface
+ 
+ Web interface contains 2 pages
+ 
+ Main
+ 
+ 
+ ![Image description](https://github.com/cpyarger/ESP32-Fog-Machine/blob/master/images/Fog%20Machine%20Info.JPG?raw=true)
+ Setup
+ ![Image description](https://github.com/cpyarger/ESP32-Fog-Machine/blob/master/images/Fog%20Machine%20Setup.JPG?raw=true)
