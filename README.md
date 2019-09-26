@@ -8,13 +8,13 @@ Device automatically shuts down fog machine heater, and pump if Temperatures go 
 
 ##Important Pins
 
-*Thermistor is connected to pin A0
-*Pump is connected to pin 17
-*Heater is connected to pin 33
+- Thermistor is connected to pin A0
+- Pump is connected to pin 17
+- Heater is connected to pin 33
 
 
 ## WIP
 
-*Telnet Support
-*MQTT Support
-*Web Control of Duration, Delay Variables 
+- Telnet Support
+- MQTT Support
+- Web Control of Duration, Delay Variables 
