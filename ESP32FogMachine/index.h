@@ -58,7 +58,7 @@ const char MAIN_page[] PROGMEM = R"=====(
 <center>
 <h1> Fog Machine Info </h1>
 <div class="header">
-<a href="/"><button class="mybutton">Main</button></a><a href="/setup"><button class="mybutton">Setup</button></a>
+<a href="/"><button class="myButton">Main</button></a><a href="/setup"><button class="myButton">Setup</button></a>
 </div>
 <div class="card">
   <h4>Fog Machine Temp:  <span id="ADCValue">--</span></h4><br>

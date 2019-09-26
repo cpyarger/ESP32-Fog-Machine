@@ -121,7 +121,7 @@ function myFunction() {
 <center>
 <h1> Fog Machine Setup </h1>
 <div class="header">
-<a href="/"><button class="mybutton">Main</button></a><a href="/setup"><button class="mybutton">Setup</button></a><button id="save_button" class="mybutton">Save</button>
+<a href="/"><button class="myButton">Main</button></a><a href="/setup"><button class="myButton">Setup</button></a><button id="save_button" class="myButton">Save</button>
 
 </div>
 <div class="card">
